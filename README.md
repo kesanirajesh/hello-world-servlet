@@ -20,3 +20,4 @@ sample
 16-06-2022--> today is THURSDAY
 17-06-2022 --> today is friday
 18-06-2022---> is sat day
+20-06-2022
