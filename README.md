@@ -21,4 +21,4 @@ sample
 17-06-2022 --> today is friday
 18-06-2022---> is sat day
 01-0702022 --> is friday
-03-07022 
+03-07-2022 --> is sunday
