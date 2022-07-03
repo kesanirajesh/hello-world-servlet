@@ -22,3 +22,4 @@ sample
 18-06-2022---> is sat day
 01-0702022 --> is friday
 03-07-2022 --> is sunday
+04-07-2022 --> is monday
